@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/yassine-boukhla/**
 
-- 📄 Know about my experiences [https://t.ly/M5rmq](https://t.ly/M5rmq)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yassine-boukhla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine-boukhla" height="30" width="40" /></a>
