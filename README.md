@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yassine BOUKHLA</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
+<div align="center">
+<img src="https://camo.githubusercontent.com/19f26428e443afcce86a937818eb4bd9625b25ac3041363e311121b55d084d27/68747470733a2f2f36362e6d656469612e74756d626c722e636f6d2f65303330633430623731343836323439343232383865353134316563323364312f74756d626c725f6e397671387a38754e77317377333670366f315f3530302e676966" height="300px" data-canonical-src="https://66.media.tumblr.com/e030c40b7148624942288e5141ec23d1/tumblr_n9vq8z8uNw1sw36p6o1_500.gif" style="max-width: 100%;" data-target="animated-image.originalImage" />
+</div>
+<br />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mblackroot" alt="mblackroot" /></a> </p>
 
 - Hi, I'm current working on [FB Ad Library Scraper](https://github.com/mblackroot/fb-adlibrary-scraper-extension)
