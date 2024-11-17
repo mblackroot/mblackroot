@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mblackroot" alt="mblackroot" /></a> </p>
 
-- Hi, I'm current working on [FB Ad Library Scraper](https://github.com/mblackroot/fb-adlibrary-scraper-extension)
+- Hi, I'm current working on FBSpy SaaS
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **PHP, Symfony, React**
+- 💬 Ask me about **PHP, Symfony, Nextjs/React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yassine-boukhla/**
 
